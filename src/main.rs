@@ -8,6 +8,7 @@ extern crate btrfs;
 extern crate flate2;
 extern crate rustc_serialize;
 extern crate serde_json;
+extern crate serde;
 extern crate sha2;
 extern crate time;
 
